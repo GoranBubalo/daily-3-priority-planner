@@ -1,7 +1,7 @@
 # Daily 3 Focus Tasks
 
 A productivity planner app that helps you **prioritize and complete your three most meaningful tasks each day**.  
-This project is inspired by science‑backed focus methods that suggest limiting your daily priorities to three high‑impact items to increase focus, reduce overwhelm, and build better habits. :contentReference[oaicite:1]{index=1}
+This project is inspired by science‑backed focus methods that suggest limiting your daily priorities to three high‑impact items to increase focus, reduce overwhelm, and build better habits.
 
 This app provides a simple, intuitive interface where users can:
 - Select **three meaningful tasks** per day  
